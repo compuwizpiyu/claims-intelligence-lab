@@ -19,12 +19,3 @@ env/
 # OS
 .DS_Store
 Thumbs.db
-
-# Original README backup (contains secrets)
-README_ORIGINAL.md
-
-# Data files (too large for git)
-data/claims/*.pdf
-data/claims/*.jpeg
-data/claims/*.jpg
-data/claims/*.png
